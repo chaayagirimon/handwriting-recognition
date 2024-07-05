@@ -1,0 +1,9 @@
+.env
+.ipynb_checkpoints/
+*.csv
+.DS_Store
+*.html
+*.keras
+__pycache__/
+archive/
+archive-1/
